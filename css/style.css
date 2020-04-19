@@ -1,0 +1,23 @@
+body {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    background-color: black;
+    overflow: hidden;
+}
+
+.container {
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    height: 100%;
+}
+
+.transition-bar {
+    transform: translateY(-8000px);
+    background-color: rgb(255, 206, 45);
+    border-radius: 50% 52% 50% 49% / 2% 2% 2% 2%;
+    height: 4000px;
+    width: 12.50%;
+    transition: transform 2s ease-in-out;
+}
