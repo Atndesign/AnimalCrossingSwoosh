@@ -33,7 +33,7 @@ function transition() {
       img += 1;
     }
     transition();
-  }, 12000);
+  }, 8000);
 }
 
 transition();
