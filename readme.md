@@ -4,7 +4,7 @@
 
 Lately I've been following some animal crossing stream, and when is saw this transition, I was like I have to make it
 
-## How to use it?
+## Demo
 
 Just follow this [link](https://atndesign.github.io/AnimalCrossingSwoosh/) .
 
