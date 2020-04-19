@@ -4,7 +4,7 @@ let transitionBars = document.querySelectorAll(".transition-bar");
 let delay = 0;
 let delayToAdd = 0.2;
 let delayList = [];
-let img = 3;
+let img = 0;
 let images = [
   "https://www.actugaming.net/wp-content/uploads/2019/09/animal-crossing-new-horizons-10.jpg",
   "https://www.actugaming.net/wp-content/uploads/2019/09/animal-crossing-new-horizons-11.jpg",
